@@ -698,7 +698,7 @@ export default function App() {
           <div className="text-sm md:text-base text-slate-400 font-bold">
             جميع الحقوق محفوظة ©
             <br />
-            أبو عبد المعز الجزائري
+            الشيخ العلامة سيدي كريم البودالي
           </div>
           <div className="text-xs text-slate-300 mt-1">
             {new Date().toLocaleDateString('ar-DZ', { month: 'long', year: 'numeric' })}
@@ -772,7 +772,7 @@ export default function App() {
             <div className="mt-8 text-center text-[12px]" style={{ color: '#94a3b8' }}>
               جميع الحقوق محفوظة ©
               <br />
-              أبو عبد المعز الجزائري
+              الشيخ العلامة سيدي كريم البودالي
               <br />
               {new Date().toLocaleDateString('ar-DZ', { month: 'long', year: 'numeric' })}
             </div>
