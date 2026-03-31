@@ -698,8 +698,6 @@ export default function App() {
           <div className="text-sm md:text-base text-slate-400 font-bold">
             جميع الحقوق محفوظة ©
             <br />
-            صدقة جارية
-            <br />
             لا تنسو والداي من صالح دعائكم
           </div>
           <div className="text-xs text-slate-300 mt-1">
@@ -773,8 +771,6 @@ export default function App() {
             
             <div className="mt-8 text-center text-[12px]" style={{ color: '#94a3b8' }}>
               جميع الحقوق محفوظة ©
-              <br />
-              صدقة جارية
               <br />
               لا تنسو والداي من صالح دعائكم
               <br />
